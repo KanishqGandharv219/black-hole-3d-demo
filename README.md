@@ -9,4 +9,4 @@ A sophisticated 3D black hole visualization built with Three.js.
 - Live FPS monitoring
 
 ## Deployment
-Hosted on GitHub Pages. Visit the live demo [here](https://kanis.github.io/black-hole-3d-demo/).
+Hosted on GitHub Pages. Visit the live demo [here](https://kanishqgandharv219.github.io/black-hole-3d-demo/).
