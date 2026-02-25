@@ -1,5 +1,7 @@
 # 3D Black Hole Demo
 
+### 🌐 [Live Interactive Demo](https://kanishqgandharv219.github.io/black-hole-3d-demo/)
+
 A sophisticated 3D black hole visualization built with Three.js.
 
 ## Features
